@@ -31,14 +31,11 @@ Then I thought the same would happen in a parallel connection, where I could jus
 
 So what was the solution? to make flow a current from another voltage of the supply to the Feedback node, controlling it with a potentiometer that also decrease its resistance to "steal" current from the node decreasing its voltage.
 
-![](./images/casuals/notes2.jpeg)
+![](./sheet2.jpeg)
 
 Also, another problem I had to deal with was my modes idea: I want 2 modes on the supply, one "Free" without restrictions to select any voltage and another blocked on 14V and 3Amps max, which is the car battery charger. Both modes can not be active at the same time, so I had to implement the ESP32 and transistors, which because of some troubles I changed to a double system with Mosfets and BJT triggered from an ESP 32 GPIO.
 
-![](./images/casuals/notes3.jpeg)
-
-![](./images/casuals/notes4.jpeg)
-
+![](./sheet3.jpeg)
 
 All these sheets are my reasoning, exposing arguments of how that could work, applying always the ohm law to try to discover what is happening.
 
