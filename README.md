@@ -1,2 +1,19 @@
-# lab-power-supply-Battery-Charger
-A ATX PC old power supply power control, voltmeters and clamps, becoming on a Lab Power Supply, but also a "Charger Mode" where every output sets to off Excepting the 12V Channel, that will be modified a at 13,75V.
+
+
+# ⚡​Car Battery Charger + Power Supply🔋​🚗​​
+> `ATX PC Supply transformed in a bench supply + car battery charger`
+
+## 📄[Documentation](./documentation) (Hack Club requirements)
+Here you will find the main resources and documentation of the project.
+#### 📋💲[Budget BOM (Bill of materials)](./documentation/budget)
+#### [⚡📐CAD Case & Electronics design](./documentation/design)
+#### [​📄🧠​Research](./documentation/research)
+
+
+## Who's behind & Why
+
+Hello! I am Valentino, an Argentine Electromechanics Technician Student, enthusiastic about Physics and Science. Since this year started I had the idea of recycling an old PC ATX Power supply and build a Lab Supply and a battery charger, because thid devices can hold more than 30 Ampers of current (which is a lot). Now, Holydays started and along this repo you will see all my research from fundamentation of  regulable electronics to my CAD designs.
+![](./images/working-me.jpeg)
+
+
+#
