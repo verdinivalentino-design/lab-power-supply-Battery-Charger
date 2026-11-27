@@ -4,4 +4,6 @@ Find my designs.
 Onshape Link
 
 ### [⚡​Electronics](./electronics) 
-KiCanvas Link
+KiCanvas Online View
+https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fverdinivalentino-design%2Flab-power-supply-Battery-Charger%2Ftree%2Fmain%2Fdocumentation%2Fcad%2Felectronics
+
