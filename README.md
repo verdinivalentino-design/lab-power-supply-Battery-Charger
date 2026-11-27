@@ -5,10 +5,11 @@
 
 ## 📄[Documentation](./documentation) (Hack Club requirements)
 Here you will find the main resources and documentation of the project.
-#### 📋💲[Budget BOM (Bill of materials)](./documentation/budget)
-#### [⚡📐CAD Case & Electronics design](./documentation/cad)
-#### [​📄🧠​Research Fundamentation](./documentation/research)
 
+#### [⚡📐CAD Case & Electronics design](./documentation/cad)
+#### [🧪​🔨​ Demo & prototypes test](./documents/demo)
+#### [​📄🧠​Research Fundamentation](./documentation/research)
+#### [📋💲Budget BOM (Bill of materials)](./documentation/budget)
 
 ## Who's behind & Why
 
