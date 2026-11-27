@@ -1,6 +1,6 @@
 # ✏️📐CAD
 Find my designs.
-### [⚙️Case (.step)(.part)(.asm)](./nose) 
+### [⚙️Case (.step)(SolidWorks Assembly .zip)](./case) 
 Onshape Link
 
 ### [⚡​Electronics](./electronics) 
