@@ -5,7 +5,7 @@ But one day I noticed an old ATX PC Power Supply in my house can supply more tha
 There I met the Switching Supplies, and its working.
 
 At school, on the Coiling Workshop, I met this formula:
-![](./images/casuals/turnsCoil.jpeg)
+![](./images/casuals/turnsCoil.png)
 
 Which one you can calculate the turns quantity in the primary winding.
 
