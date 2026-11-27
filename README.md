@@ -12,7 +12,7 @@ Here you will find the main resources and documentation of the project.
 
 ##
 
-### [🧪​🔨​ Demo & prototypes testing](./demo)
+### [🧪​🔨​ Demo & prototypes testing](./documentation/research)
 
 ## Who's behind & Why
 
