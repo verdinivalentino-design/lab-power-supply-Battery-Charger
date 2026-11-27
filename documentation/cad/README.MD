@@ -1,6 +1,6 @@
 # ✏️📐Kart Blueprints
 Find my designs.
-### [⚙️Case (.step)(.part)(.asm)
+### [⚙️Case (.step)(.part)(.asm)](./nose) 
 Onshape Link
 
 ### [⚡​Electronics](./electronics) 
