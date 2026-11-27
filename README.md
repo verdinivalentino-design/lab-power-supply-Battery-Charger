@@ -7,9 +7,10 @@
 Here you will find the main resources and documentation of the project.
 
 #### [⚡📐CAD Case & Electronics design](./documentation/cad)
-#### [🧪​🔨​ Demo & prototypes test](./documents/demo)
 #### [​📄🧠​Research Fundamentation](./documentation/research)
 #### [📋💲Budget BOM (Bill of materials)](./documentation/budget)
+
+### [🧪​🔨​ Demo & prototypes test](./demo)
 
 ## Who's behind & Why
 
