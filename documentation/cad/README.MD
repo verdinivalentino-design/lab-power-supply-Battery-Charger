@@ -1,4 +1,4 @@
-# ✏️📐Kart Blueprints
+# ✏️📐CAD
 Find my designs.
 ### [⚙️Case (.step)(.part)(.asm)](./nose) 
 Onshape Link
