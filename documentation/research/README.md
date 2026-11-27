@@ -17,7 +17,7 @@ The only disadvantage of this supplies is the RF interference due to the high fr
 
 Now, I know a bit more of how this supplies work, but the real challenge here was the regulation.
 
-![](./images/casuals/notes1.jpeg)
+![](./sheet1.jpeg)
 
 The suplies has got an IC (Integrated Circuit), in my chase it is the EST7502C(http://esthome.com/EST.7502C%20Rev1.50.pdf) that manages protections, of/on turning and the important: Output Voltages.
 There is a feedback pin which measures all the time the voltage. With respect to ground, that pin should be on 2,45V to have normal output voltages, just as 12V, 3,3V and 5V, But if I put less than that reference, the IC "Thinks" something is wrong, so it increase the output
